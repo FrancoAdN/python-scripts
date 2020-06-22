@@ -6,7 +6,7 @@ sys.setdefaultencoding('utf8')
 
 def main():
     ip = '190.210.176.21'
-    api = Shodan('WZqoK8tS9NZc8rjhwP6PD4XVEjTlU0Ey')
+    api = Shodan('yourshodanapikey')
     h = api.host(ip)
     print('''
         Direction: {}

