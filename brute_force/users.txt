@@ -1,0 +1,13 @@
+msfadmin
+admin1
+root
+admin
+franco
+test
+1234
+a
+user
+main
+main_user
+ADMIN
+ROOT

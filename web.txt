@@ -1,0 +1,6 @@
+https://www.ibm.com/support/knowledgecenter/es/ssw_ibm_i_73/rzakk/rzakkconceptresourcerec.htm
+http://who.is/
+https://viewdns.info/reverseip/
+https://ipinfo.io/
+cmd: systeminfo
+https://www.shodan.io/explore
